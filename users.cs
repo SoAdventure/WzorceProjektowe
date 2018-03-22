@@ -4,13 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Wzorzec_Factory
-{ 
-  
-    class Program
+namespace factory
+{
+    class users
     {
-        static void Main(string[] args)
-        {
-        { 
     }
 }
