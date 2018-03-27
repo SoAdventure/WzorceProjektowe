@@ -45,9 +45,10 @@ namespace Wzorzec_Factory
                 try
                 {
                     ob = factoryPattern.getObject("products");
-                    ob.addItem("Książka");
-                    ob.addItem("Płyta");
-                    ob.addItem("Kaseta");
+                    ob.addItem("Frytki");
+                    ob.addItem("Kopytka");
+                    ob.addItem("Talarki");
+                    ob.addItem("Kluski Śląskie");
                     Console.WriteLine(ob.listItems());
                 }
                 catch (Exception ex)
@@ -60,9 +61,10 @@ namespace Wzorzec_Factory
                 try
                 {
                     ob = factoryPattern.getObject("priviledges");
-                    ob.addItem("Ciastko co dziennie");
-                    ob.addItem("Mleko co dziennie");
-                    ob.addItem("Kostka drogiego masła");
+                    ob.addItem("Pozwolenie na ziemniaka");
+                    ob.addItem("Pozwolenie na fryki");
+                    ob.addItem("Pozwolenie na kostkę masła do ziemniaka");
+                    ob.addItem("Pozwolenie na najpierw ziemniaczki potem mięsko");
                     Console.WriteLine(ob.listItems());
                 }
                 catch (Exception ex)
