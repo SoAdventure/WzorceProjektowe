@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace factory
 {
-    interface FactoryInterface
+   public interface FactoryInterface
     {
-        public string listItems();
-        public string addItem();
-        public string deleteItem();
+         String listItems();
+         String addItem(String user);
+         String deleteItem(int number);
+         String sortItems(); 
     }
 }
