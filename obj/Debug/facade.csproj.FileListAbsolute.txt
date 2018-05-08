@@ -1,0 +1,7 @@
+E:\wzor ce\facade\facade\bin\Debug\facade.exe.config
+E:\wzor ce\facade\facade\bin\Debug\facade.exe
+E:\wzor ce\facade\facade\bin\Debug\facade.pdb
+E:\wzor ce\facade\facade\obj\Debug\facade.csprojResolveAssemblyReference.cache
+E:\wzor ce\facade\facade\obj\Debug\facade.csproj.CoreCompileInputs.cache
+E:\wzor ce\facade\facade\obj\Debug\facade.exe
+E:\wzor ce\facade\facade\obj\Debug\facade.pdb
