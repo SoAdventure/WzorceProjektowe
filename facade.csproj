@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{68C90BAE-6C02-4349-8348-F2692054B495}</ProjectGuid>
+    <ProjectGuid>{029C0C9B-9494-475B-9F97-2F5E74773D39}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Wzorce</RootNamespace>
-    <AssemblyName>Wzorce</AssemblyName>
+    <RootNamespace>facade</RootNamespace>
+    <AssemblyName>facade</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
