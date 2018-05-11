@@ -1,0 +1,7 @@
+E:\wzor ce\Adapter\Adapter\bin\Debug\Adapter.exe.config
+E:\wzor ce\Adapter\Adapter\bin\Debug\Adapter.exe
+E:\wzor ce\Adapter\Adapter\bin\Debug\Adapter.pdb
+E:\wzor ce\Adapter\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
+E:\wzor ce\Adapter\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+E:\wzor ce\Adapter\Adapter\obj\Debug\Adapter.exe
+E:\wzor ce\Adapter\Adapter\obj\Debug\Adapter.pdb

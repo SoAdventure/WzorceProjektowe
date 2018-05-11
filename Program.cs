@@ -8,8 +8,10 @@ namespace Adapter
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
+            NowaWiadomosc adapterWiad = new AdapterWiad(new Wiadomosc());
+            adapterWiad.Send("Siemaneczko");
         }
     }
 }

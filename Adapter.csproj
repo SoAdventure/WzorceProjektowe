@@ -42,8 +42,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AdapterWiad.cs" />
+    <Compile Include="NowaWiadomosc.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Wiadomosc.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
