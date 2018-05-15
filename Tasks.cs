@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace ChainOfResponsibility
 {
-    class Program
+    enum ToDo
     {
-        static void Main(string[] args)
-        {
-        }
+        Photo,
+        Video,
+        Print,
+        Other
     }
 }
