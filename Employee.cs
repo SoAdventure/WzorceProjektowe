@@ -10,7 +10,7 @@ namespace ChainOfResponsibility
     {
          
         
-            public string Name { get; set; }
+            public string Surname { get; set; }
 
             
             protected Employee next;
