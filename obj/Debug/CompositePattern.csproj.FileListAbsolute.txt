@@ -1,0 +1,2 @@
+E:\wzor ce\CompositePattern\CompositePattern\obj\Debug\CompositePattern.csprojResolveAssemblyReference.cache
+E:\wzor ce\CompositePattern\CompositePattern\obj\Debug\CompositePattern.csproj.CoreCompileInputs.cache
